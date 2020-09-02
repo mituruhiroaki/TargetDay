@@ -17,8 +17,6 @@ namespace TargetDay{
 
             int MonthDays = DateTime.DaysInMonth(Year, month);
 
-            //var culture = CultureInfo.GetCultureInfo("en-US");
-
             for(int days = 1, count = 1; days <= MonthDays; days++) {
                 var forDay = new DateTime(Year, month, days);
                 if(forDay.ToString("ddd", culture) == youbi ) {
