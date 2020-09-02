@@ -1,0 +1,6 @@
+C:\Users\sekim\OneDrive\デスクトップ\TargetDay\bin\Debug\TargetDay.dll
+C:\Users\sekim\OneDrive\デスクトップ\TargetDay\bin\Debug\TargetDay.pdb
+C:\Users\sekim\OneDrive\デスクトップ\TargetDay\obj\Debug\TargetDay.csprojAssemblyReference.cache
+C:\Users\sekim\OneDrive\デスクトップ\TargetDay\obj\Debug\TargetDay.csproj.CoreCompileInputs.cache
+C:\Users\sekim\OneDrive\デスクトップ\TargetDay\obj\Debug\TargetDay.dll
+C:\Users\sekim\OneDrive\デスクトップ\TargetDay\obj\Debug\TargetDay.pdb
