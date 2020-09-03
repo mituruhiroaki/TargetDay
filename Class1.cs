@@ -13,7 +13,7 @@ namespace TargetDay{
 
 
         #region<ファンクション>
-        public static Func<int, int, string, int> targetDay = (month, dainann, youbi) => {
+        public static Func<int, int, string, int> targetDay = (month, dainann, youbi) => {      //対象月, 何番目か, 何曜日か(月曜日→"Mon" 金曜日→"Fri")
 
             int MonthDays = DateTime.DaysInMonth(Year, month);
 
@@ -51,7 +51,7 @@ namespace TargetDay{
             return result;
         };
 
-        #endregion 
+        #endregion
 
     }
 }
